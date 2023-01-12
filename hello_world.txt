@@ -2,3 +2,4 @@ Welcome to my first GitHub repository
 So git add is used to stage
 git status is used to show the state of your repo
 git commit -m commits changes to the repo while adding explanatory text
+also checkout git_pull, git_reset,git checkout and git_push
