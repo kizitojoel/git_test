@@ -1,0 +1,4 @@
+Welcome to my first GitHub repository
+So git.add is used to stage
+git.status is used to show the state of your repo
+git.commit -m commits changes to the repo while adding explanatory text
